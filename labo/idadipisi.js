@@ -1,0 +1,3 @@
+(isTitleDefined ? [] : {
+  // Object properties here
+});
